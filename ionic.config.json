@@ -1,5 +1,7 @@
 {
   "name": "myOfflineApp",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular"
 }
